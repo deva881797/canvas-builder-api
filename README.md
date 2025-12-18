@@ -142,11 +142,11 @@ curl http://localhost:3000/api/canvas/{id}/export/pdf --output canvas.pdf
 
 ## 📄 License
 
-MIT License - See LICENSE file for details.
+For Academic Purpose Only.
 
 ## 👤 Author
 
-Devashish
+Devashish Arvind Ghate
 
 ---
 
