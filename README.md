@@ -19,8 +19,9 @@ docker-compose up --build
 ```
 
 ### Access the Application
-- **Frontend**: http://localhost:5173
-- **Backend API**: http://localhost:3000
+- **Live Demo**: https://canvas-builder-api-gray.vercel.app/
+- **Frontend (Local)**: http://localhost:5173
+- **Backend API (Local)**: http://localhost:3000
 
 ## 📁 Project Structure
 
